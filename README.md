@@ -1,4 +1,6 @@
 ## Sentiment Analysis Web Application
+![image](https://github.com/NishadiSS/sentiment-analysis-project/assets/119886016/d5af8e12-f794-4040-ba07-af8b6aa75e16)
+
 
 ### Overview
 This project involves building a sentiment analysis web application. It leverages Kaggle datasets for training machine learning models to predict the sentiment of a given text in real-time. 
